@@ -15,4 +15,3 @@ Ciphers implemented in the application are:
   - Columnar Transposition Cipher
   - Railfence Cipher
   - Morse Code
-  - 
