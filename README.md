@@ -1,5 +1,5 @@
 # Ciphers-Deciphered
-A one-stop application for various ciphers in python.
+A one-stop application for various ciphers in python using Tkinter.
 
 Ciphers implemented in the application are:
 
