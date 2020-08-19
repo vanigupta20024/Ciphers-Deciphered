@@ -6,16 +6,17 @@ Built using: Tkinter :beginner:
 
 Ciphers implemented in the application are:
 
-  - Caesar Cipher
-  - Autokey Cipher
-  - Vignere Cipher
-  - Playfair Cipher
-  - Beaufort Cipher
-  - Vignere Autokey Cipher
-  - Atbash Cipher
-  - Homophonic Substitution Cipher
-  - Beaufort Autokey Cipher
-  - Columnar Transposition Cipher
-  - Railfence Cipher
-  - Morse Code
+  * Caesar Cipher
+      - It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet.
+  * Autokey Cipher
+  * Vignere Cipher
+  * Playfair Cipher
+  * Beaufort Cipher
+  * Vignere Autokey Cipher
+  * Atbash Cipher
+  * Homophonic Substitution Cipher
+  * Beaufort Autokey Cipher
+  * Columnar Transposition Cipher
+  * Railfence Cipher
+  * Morse Code
 
