@@ -1,7 +1,7 @@
 # Ciphers-Deciphered :closed_lock_with_key:
 A one-stop application for various ciphers.
 
-### Language: Python :snake:
+#### Language: Python :snake:
 Built using: Tkinter :beginner:
 
 Ciphers implemented in the application are:
@@ -18,3 +18,4 @@ Ciphers implemented in the application are:
   - Columnar Transposition Cipher
   - Railfence Cipher
   - Morse Code
+
