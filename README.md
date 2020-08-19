@@ -1,5 +1,8 @@
-# Ciphers-Deciphered
-A one-stop application for various ciphers in python using Tkinter.
+# Ciphers-Deciphered :closed_lock_with_key:
+A one-stop application for various ciphers.
+
+### Language: Python :snake:
+Built using: Tkinter :beginner:
 
 Ciphers implemented in the application are:
 
