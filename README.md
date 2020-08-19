@@ -1,13 +1,13 @@
 # Ciphers-Deciphered :closed_lock_with_key:
-A one-stop application for various ciphers.
+
+A one-stop application for encoding plain-text into ciphertext and decoding ciphertext into plain-text.
 
 #### Language: Python :snake:
-Built using: Tkinter :beginner:
+GUI built using: Tkinter :beginner:
 
 Ciphers implemented in the application are:
 
   * Caesar Cipher
-      - It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet.
   * Autokey Cipher
   * Vignere Cipher
   * Playfair Cipher
@@ -20,3 +20,4 @@ Ciphers implemented in the application are:
   * Railfence Cipher
   * Morse Code
 
+***Feel free to add or contribute any more ciphers of your choice.***
