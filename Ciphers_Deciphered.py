@@ -6,7 +6,6 @@ import random
 import webbrowser
 from tkinter import ttk
 from time import strftime
-from tkinter import ttk
 from ciphers import caesarC, homophonicC, railfenceC, autokeyC, atbashC, columnerC, beaufortC, beaufortautokeyC, vignereC, vignereautokeyC, playfairC, morseC
 
 root = Tk()
